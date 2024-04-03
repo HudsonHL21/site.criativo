@@ -2,11 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
 body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
+    background-color: #614253;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -29,7 +30,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#614253,#f81683);
     color:white;
     display: flex;
     justify-content: center;
@@ -49,6 +50,7 @@ body {
 .estudante{
     padding: 24px 0;
 }
+
 .estudante-imagem{
     width: 120px;
 }
